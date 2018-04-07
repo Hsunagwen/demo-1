@@ -1,0 +1,49 @@
+.geometry{
+    width: 0px;
+    height: 0px;
+}
+.geometry>div{
+    margin: 20px;
+}
+.shape1{
+    border-top: 20px solid blue;
+    border-right: 20px solid yellow;
+    border-bottom: 20px solid green;
+    border-left: 20px solid red;
+}
+.shape2{
+    border-top: 20px solid blue;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    border-left: 20px solid transparent;
+}
+.shape3{
+    border-top: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid transparent;
+    border-left: 20px solid red;
+}
+.shape4{
+    border-top: 20px solid transparent;
+    border-right: 20px solid yellow;
+    border-bottom: 20px solid transparent;
+    border-left: 20px solid transparent;
+}
+.shape5{
+    border-top: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 20px solid green;
+    border-left: 20px solid transparent;
+}
+.shape6{
+    border-top: 14px solid transparent;
+    border-right: 14px solid transparent;
+    border-bottom: 14px solid red;
+    border-left: 14px solid red;
+}
+.shape7{
+    border-top: 14px solid transparent;
+    border-right: 14px solid green;
+    border-bottom: 14px solid green;
+    border-left: 14px solid transparent;
+}
