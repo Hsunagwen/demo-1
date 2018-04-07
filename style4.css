@@ -1,0 +1,37 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+.layout{
+    width: 600px;
+    margin: 0 auto;
+}
+.layout>a{
+    display: inline-block;
+    text-decoration: none;
+    padding: 8px 10px;
+    border-radius: 5px;
+}
+a:hover{
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.3);
+}
+.teal{
+    color: #fff;
+    background-color: #009688;
+}
+.yellow{
+    color: #000;
+    background-color: #ffeb3b;
+}
+.orange{
+    color: #000;
+    background-color: #ff9800;
+}
+.red{
+    color: #fff;
+    background-color: #f44336;
+}
+.green{
+    color: #fff;
+    background-color: #4CAF50;
+}
