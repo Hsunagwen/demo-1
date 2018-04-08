@@ -1,0 +1,37 @@
+body{
+    font-family: arial;
+}
+.layout{
+    width: 600px;
+    margin: 0 auto;
+}
+.tab{
+    width: 100%;
+    text-transform: capitalize;
+    margin: 0 auto;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+th,td{
+    padding: 8px;
+}
+.tab.one{
+    margin-top: 30px;
+    border: 1px solid #ccc;
+}
+.tab.two{
+    margin-top: 30px;
+}
+.tab-b tr:nth-child(odd){
+    background-color: #f1f1f1;
+}
+.tab-h{
+    text-align: left;
+}
+.tab.one th{
+    color: #fff;
+    background-color: #4CAF50;
+}
+table tr{
+    border-bottom: 1px solid #ccc;
+}
